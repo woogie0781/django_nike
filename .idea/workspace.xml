@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71d8886a-98f9-40bf-9664-2568f5c02b43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/nike_web/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/static/css/aside.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/css/aside.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/static/css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/css/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/static/css/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/css/product.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/templates/nike_web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/templates/nike_web/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nike_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nike_web/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XLU3HMyZOkFLe0jmN7d0PoyN8e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/django_nike" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d8886a-98f9-40bf-9664-2568f5c02b43" name="Default Changelist" comment="" />
+      <created>1580824667086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580824667086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="27" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580829583090">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="209" y="27" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.735@0.23.1280.735" timestamp="1580829583090" />
+    <state x="569" y="151" key="FileChooserDialogImpl" timestamp="1580903353534">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="569" y="151" key="FileChooserDialogImpl/0.23.1280.735@0.23.1280.735" timestamp="1580903353534" />
+    <state x="283" y="29" key="SettingsEditor" timestamp="1580903801602">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="283" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1580903801602" />
+    <state x="0" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1580896974380">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="0" y="223" key="com.intellij.ide.util.TipDialog/0.23.1280.735@0.23.1280.735" timestamp="1580896974380" />
+    <state x="50" y="299" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580903595666">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="50" y="299" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1280.735@0.23.1280.735" timestamp="1580903595666" />
+  </component>
+</project>
