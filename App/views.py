@@ -5,3 +5,6 @@ def index(request):
 
 def product(request):
     return render(request, 'App/product.html', {})
+
+def wishlist(request):
+    return render(request, 'App/wishlist.html', {})
