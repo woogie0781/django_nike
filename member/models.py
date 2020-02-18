@@ -3,13 +3,6 @@ from django.contrib.auth.models import User
 from product.models import Product
 
 
-class Item(models.Model):
-    name = models.CharField(max_length=100)
-    price = models.FloatField()
-
-    def __str__(self):
-        return self.name
-
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
 
@@ -40,3 +33,4 @@ class Order(models.Model): # 카트에 들어 있는 아이템
 
     def __str__(self):
         return '{} - {}'.format(self.owner, self.ref_code)
+

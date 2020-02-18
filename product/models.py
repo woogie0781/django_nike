@@ -38,3 +38,5 @@ class ProductImage(models.Model):
 
     def __str__(self):
         return '{} image'.format(self.product_id)
+
+
